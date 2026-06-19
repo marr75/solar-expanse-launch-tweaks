@@ -1,0 +1,7 @@
+<Project>
+  <!-- local-build overlay: points the build at this machine's game install.
+       Conditional so -p:GameDir=... and env vars still override. -->
+  <PropertyGroup>
+    <GameDir Condition="'$(GameDir)'==''">D:\SteamLibrary\steamapps\common\Solar Expanse</GameDir>
+  </PropertyGroup>
+</Project>
