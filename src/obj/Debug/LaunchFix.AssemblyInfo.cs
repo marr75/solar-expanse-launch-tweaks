@@ -12,10 +12,10 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaunchFix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Fixes LV payload checks to include fuel mass; adds dry mass to spacecraft tooltip" +
-    "s")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute(("Fixes LV payload checks to include fuel mass; adds dry mass to spacecraft tooltip" +
+    "s"))]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.1.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+17249e1e9f060f46b7e8e1dad32e77de1d906bac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.1.0+aacb6c0cd7649f795fb7e7ed0a71e60ebb102e62")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaunchFix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaunchFix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.1.0.0")]
